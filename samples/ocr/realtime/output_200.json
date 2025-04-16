@@ -1,0 +1,38 @@
+{
+    "pages": [
+        {
+            "index": 1,
+            "markdown": "# LEVERAGING UNLABELED DATthat threshold. ATC outperforms previous...",
+            "images": [],
+            "dimensions": {
+                "dpi": 200,
+                "height": 2200,
+                "width": 1700
+            }
+        },
+        {
+            "index": 2,
+            "markdown": "![img-0.jpeg](img-0.jpeg)\n\nFigure 1: Illustration of our proposed method...",
+            "images": [
+                {
+                    "id": "img-0.jpeg",
+                    "top_left_x": 292,
+                    "top_left_y": 217,
+                    "bottom_right_x": 1405,
+                    "bottom_right_y": 649,
+                    "image_base64": "..."
+                }
+            ],
+            "dimensions": {
+                "dpi": 200,
+                "height": 2200,
+                "width": 1700
+            }
+        }
+    ],
+    "model": "mistral",
+    "usage_info": {
+        "pages_processed": 29,
+        "doc_size_bytes": null
+    }
+}
