@@ -2,7 +2,7 @@
     "id": "123",
     "object": "chat.completion",
     "created": 123,
-    "model": "mistral",
+    "model": "mistral-large-2411",
     "choices": [
         {
             "index": 0,
