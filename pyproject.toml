@@ -1,0 +1,21 @@
+[project]
+name = "mistral-sagemaker-docs"
+version = "1.0.0"
+description = "Documentation for deploying Mistral AI models to AWS Sagemaker"
+authors = [
+    { name = "Antoine Roux", email = "antoine@mistral.ai" },
+    { name = "Harizo Rajaona", email = "harizo@mistral.ai" },
+]
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.37.34",
+    "notebook>=7.4.0",
+    "sagemaker>=2.243.2",
+]
+
+[tool.uv]
+package = false
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
