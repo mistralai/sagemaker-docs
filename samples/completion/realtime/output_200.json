@@ -1,0 +1,23 @@
+{
+    "id": "123",
+    "object": "chat.completion",
+    "created": 123,
+    "model": "mistral",
+    "choices": [
+        {
+            "index": 0,
+            "message": {
+                "role": "assistant",
+                "content": "Claude Monet is often considered the best French painter.",
+                "tool_calls": null
+            },
+            "finish_reason": "stop",
+            "logprobs": null
+        }
+    ],
+    "usage": {
+        "prompt_tokens": 15,
+        "total_tokens": 17,
+        "completion_tokens": 2
+    }
+}
