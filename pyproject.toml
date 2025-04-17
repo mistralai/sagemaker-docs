@@ -5,6 +5,7 @@ description = "Documentation for deploying Mistral AI models to AWS Sagemaker"
 authors = [
     { name = "Antoine Roux", email = "antoine@mistral.ai" },
     { name = "Harizo Rajaona", email = "harizo@mistral.ai" },
+    { name = "Amaury Larreur de Farcy", email = "amaury.larreurdefarcy@mistral.ai" },
 ]
 requires-python = ">=3.12"
 dependencies = [
