@@ -30,7 +30,7 @@
             }
         }
     ],
-    "model": "mistral",
+    "model": "mistral-ocr-2503",
     "usage_info": {
         "pages_processed": 29,
         "doc_size_bytes": null

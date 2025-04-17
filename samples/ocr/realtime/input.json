@@ -1,5 +1,5 @@
 {
-    "model": "mistral",
+    "model": "mistral-ocr-2503",
     "document": {
         "type": "document_url",
         "document_url": "https://arxiv.org/pdf/2201.04234"

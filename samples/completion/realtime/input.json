@@ -1,5 +1,5 @@
 {
-    "model": "mistral",
+    "model": "mistral-large-2411",
     "messages": [
         {
             "role": "user",
